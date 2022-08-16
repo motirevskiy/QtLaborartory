@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/icons1">
+        <file>img/free-icon-font-add-document-3914213.png</file>
+        <file>img/free-icon-font-edit-3917361.png</file>
+        <file>img/free-icon-font-file-3917528.png</file>
+        <file>img/free-icon-font-jpg-3914265.png</file>
+        <file>img/free-icon-font-play-alt-3914307.png</file>
+        <file>img/free-icon-font-refresh-3917293.png</file>
+        <file>img/free-icon-font-stop-3917685.png</file>
+        <file>img/free-icon-font-stats-3916729.png</file>
+    </qresource>
+</RCC>
